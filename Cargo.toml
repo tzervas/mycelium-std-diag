@@ -12,7 +12,7 @@ publish = false
 workspace = true
 
 [dependencies]
-mycelium-diag = { git = "https://github.com/tzervas/mycelium-runtime", rev = "7842042d770108b2d179ff2874f1871dc4821604" }
+mycelium-diag = { git = "https://github.com/tzervas/mycelium-runtime", rev = "f683712fe5b701ad8b062a4b04195fbcdc15143b" }
 
 [dev-dependencies]
 
